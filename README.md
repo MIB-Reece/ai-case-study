@@ -27,7 +27,7 @@ The worlds largest asset manager uses the latest trends in automation and "AI Co
 BlackRock has built a strong reputation for successful innovation and currently manages 9.42 trillion in assets.
 The company has won several awards, and their clients and staff are happy.
 BlackRock continues to hire top talent and uses their investments to make an impact in the financial technology world.
-Finances are BlackRock's core metrics and the company recieves more than 8 percent of revenue from FinTech services; being the biggest in the world counts for something.
+Finances are BlackRock's core metrics bringing in 17 billion in revenue and 5 billion in profit; the company recieves more than 8 percent of revenue from FinTech services.
 
 ## Recommendations
 
@@ -36,3 +36,10 @@ I recommend that the company finds ways for their exclusive AI to evolve by coll
 They could consider expanding their clientele or integrating public sources to improve their machine learning algorithim.
 This AI improvement could happen through the use of chatbots and public surverys aimed to benefit the companys private clients.
 Carefully planned surverys and chatbots would appropriately improve BlackRock's large language model.
+
+## Addendum - Sources Cited
+### Financial Times: [“Blackrock to Roll out First Generative AI Tools to Clients next Month.”](www.ft.com/content/3f3431f1-d6dc-4310-9edc-3bc8cdc46caa) by Brooke Masters
+Masters, Brooke. “Blackrock to Roll out First Generative AI Tools to Clients next Month.” Financial Times, 6 Dec. 2023, www.ft.com/content/3f3431f1-d6dc-4310-9edc-3bc8cdc46caa. 
+
+### The Business Model Analyst: [BlackRock Business Model](https://businessmodelanalyst.com/blackrock-business-model/) by Daniel Pereira
+
