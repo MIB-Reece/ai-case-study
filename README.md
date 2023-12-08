@@ -38,7 +38,8 @@ This AI improvement could happen through the use of chatbots and public surverys
 Carefully planned surverys and chatbots would appropriately improve BlackRock's large language model.
 
 ## Addendum - Sources Cited
-### Financial Times: [“Blackrock to Roll out First Generative AI Tools to Clients next Month.”](www.ft.com/content/3f3431f1-d6dc-4310-9edc-3bc8cdc46caa) by Brooke Masters
+### Financial Times: [“Blackrock to Roll out First Generative AI Tools to Clients next Month.”](www.ft.com/content/3f3431f1-d6dc-4310-9edc-3bc8cdc46caa) 
+by Brooke Masters
 
 ### The Business Model Analyst: [BlackRock Business Model](https://businessmodelanalyst.com/blackrock-business-model/) by Daniel Pereira
 
